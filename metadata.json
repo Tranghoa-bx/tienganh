@@ -1,0 +1,6 @@
+{
+  "name": "Lộ trình lấy gốc tiếng Anh THCS",
+  "description": "Ứng dụng web cá nhân hóa giúp học sinh THCS mất gốc tiếng Anh nhanh chóng lấy lại căn bản qua luyện đọc phát âm, từ vựng và đoạn văn kết hợp AI chấm điểm giọng nói và Gamification.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
