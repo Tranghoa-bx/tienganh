@@ -61,6 +61,7 @@ export interface PhonicsWordItem {
 }
 
 export interface DailyPhonicsLesson {
+  id?: string;
   day: number;
   title: string;
   focusGroupIds: string[];
